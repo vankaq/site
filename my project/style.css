@@ -1,0 +1,31 @@
+body{
+	height: 500px;
+	margin: 0;
+	background-size: 75%
+}
+.head{
+	background: black;
+	height: 60px;
+	display: flex;
+}
+.registration{
+	margin-left: 40%;
+	margin-top: 50px;
+	height: 150px;
+}
+.reginput{
+	display: block;
+	height: 30px;
+	width: 20%;
+	margin-top: 7px;
+}
+.btn{
+	margin-top: 10px;
+	margin-left: 15px
+}
+.voiti{
+	display: block;
+	margin-left: 35%;
+	margin-top: 500px;
+
+}
